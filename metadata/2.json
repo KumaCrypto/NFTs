@@ -1,0 +1,23 @@
+{
+    "name": "Fili",
+    "description": "Hey, it's Fili! The iceberg on which he lived melted, and the ocean carried him far to another continent. Having found a chick on a local beach, he was sheltered by the Furby family, and his daughter Millie gave him a name consonant with her own. Since then, the penguin spends every day in the bathroom with his beloved duck, remembering his home. He is sad, but his family makes him happier.",
+    "image": "ipfs://QmSUfxV4TU7g8xLTxpm6oB5rDJ7fksEsjyS5QG6A9QNdq8?filename=PenguinWithaDuck.jpg",
+      "attributes": [
+      {
+        "trait_type": "Mood", 
+        "value": "Post depression"
+      }, 
+      {
+        "trait_type": "Age", 
+        "value": "4 months"
+      }, 
+      {
+        "trait_type": "Power", 
+        "value": 4
+      }, 
+      {
+        "trait_type": "Tail", 
+        "value": "lowered"
+      }
+    ]
+  }

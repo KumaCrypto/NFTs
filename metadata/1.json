@@ -1,0 +1,23 @@
+{
+    "name": "Lilith",
+    "description": "Lilith… A dreamer and just a beauty. She has a very sensual soul, this is the chick that will come to the rescue, even without knowing how to fly. Her love and care helped to grow this beautiful tulip even in Antarctica 💐",
+    "image": "ipfs://QmYv6sTtSLcTFF4p4QADhfJGuY3xiwMqk8LjFNpMs1HcRe?filename=PenguinWithAFlower.jpg",
+      "attributes": [
+      {
+        "trait_type": "Mood", 
+        "value": "worried"
+      }, 
+      {
+        "trait_type": "Age", 
+        "value": "6 months"
+      }, 
+      {
+        "trait_type": "Power", 
+        "value": 3
+      }, 
+      {
+        "trait_type": "Tail", 
+        "value": "In place"
+      }
+    ]
+  }

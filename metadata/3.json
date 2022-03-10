@@ -1,0 +1,23 @@
+{
+    "name": "Nate",
+    "description": "Nate and sport are simply inseparable, one day he found this 'unknown circle' just in the middle of his ice floe. Before that, he was disliked at the penguin school because he was considered too plump. BUT! Now everything has changed and Nate is the coolest athlete with a bunch of fans 😎",
+    "image": "ipfs://QmTCWEShQxfsbCbCStJWuG4vhxBGC5TwfVawFUaQghRywG?filename=PenguinWithAHoop.jpg",
+      "attributes": [
+      {
+        "trait_type": "Mood", 
+        "value": "Happy"
+      }, 
+      {
+        "trait_type": "Age", 
+        "value": "7 months"
+      }, 
+      {
+        "trait_type": "Power", 
+        "value": 10
+      }, 
+      {
+        "trait_type": "Tail", 
+        "value": "Worth"
+      }
+    ]
+  }
